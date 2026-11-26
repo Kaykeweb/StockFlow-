@@ -1,0 +1,6 @@
+{
+  "name": "StockFlow",
+  "description": "Sistema Web de Gerenciamento de Estoque integrado via API REST ao banco NoSQL Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
